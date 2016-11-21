@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tema2_hoja9</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="ejercicio3">Ejercicio 3</string>
+    <string name="ejercicio4">Ejercicio 4</string>
+    <string name="buttonEj1">Enviar notificación</string>
+    <string name="buttonEj3">Cancelar alarma</string>
+</resources>
